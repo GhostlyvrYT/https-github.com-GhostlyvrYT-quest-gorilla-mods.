@@ -1,1 +1,23 @@
-# https-github.com-GhostlyvrYT-quest-gorilla-mods.
+https://cdn.discordapp.com/attachments/934950001879158824/942187037149253702/PublicLongArms_v1.0.1_2_1_1.qmod
+https://cdn.discordapp.com/attachments/934950001879158824/942187077762686996/PublicGravMonke_v1.0.1.qmod
+https://cdn.discordapp.com/attachments/934950001879158824/942187150181531648/PlatformMonke-V2.1_public_1.qmod
+https://cdn.discordapp.com/attachments/934950001879158824/942187347917832223/WhereGravityGo_v1.0.0_1_1.qmod
+https://cdn.discordapp.com/attachments/934950001879158824/942187370428653658/SpaceMonke_5_1.qmod
+https://cdn.discordapp.com/attachments/934950001879158824/942187429920665650/gorillafriends_v1.0.1_3.qmod
+https://cdn.discordapp.com/attachments/934950001879158824/942187446483976262/TagGun_v1.0.0_1_1.qmod
+https://cdn.discordapp.com/attachments/934950001879158824/942187463080837140/CheckpointMonk_v1.1.0-2.qmod
+https://cdn.discordapp.com/attachments/934950001879158824/942187493703426088/gripMonke_1.0.1.qmod
+https://cdn.discordapp.com/attachments/934950001879158824/942192585169068113/grapplemonke_v0.1.0_1.qmod
+https://cdn.discordapp.com/attachments/934950001879158824/942192609156288512/AntiTagCheat_1_0_0.qmod
+ONLY USE IF YOU HAVE A BROKEN CONTROLLER https://cdn.discordapp.com/attachments/934950001879158824/942192627158249532/BrokenController_v1.0.3.qmod
+https://cdn.discordapp.com/attachments/934950001879158824/942192677984813117/PaintBall.qmod
+https://cdn.discordapp.com/attachments/934950001879158824/942192808998080512/magikmonki_v1.0.0_21.qmod
+https://cdn.discordapp.com/attachments/934950001879158824/942192857245171762/slipworld-3.qmod
+https://cdn.discordapp.com/attachments/934950001879158824/946194591583965214/no-fingers_v1.0.0.qmod
+https://www.mediafire.com/file/k7b4uxias9o519v/MonkeMapLoader.3_3.qmod/file
+https://cdn.discordapp.com/attachments/905635801721892894/915455510638104646/MyNameIsCanadianUtils.qmod
+https://cdn.discordapp.com/attachments/905635801721892894/915455511275667516/MyNameIsCanadianOS.qmod
+https://cdn.discordapp.com/attachments/905635801721892894/915455512152252416/MyNameIsCanadianCodeGen.qmod
+https://cdn.discordapp.com/attachments/942485795481194526/942520274161647676/GorillaCosmetics_2_3.qmod
+https://cdn.discordapp.com/attachments/936630912186208276/938859202452021359/MonkeComputerActivator_1.1.4.qmod
+https://monkemaphub.com/pages/maps
